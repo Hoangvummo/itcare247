@@ -1,0 +1,9 @@
+*.py
+*.json
+!package.json
+test*.txt
+*-backup*
+*-dark*
+*-v2*
+shop.html
+final.html
